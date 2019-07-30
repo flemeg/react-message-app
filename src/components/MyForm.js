@@ -8,8 +8,6 @@ const propTypes = {};
 
 const defaultProps = {};
 
-const auth = 'key=AAAAWZufjCI:APA91bGmSzCG5MgXKixTWrniCqoqfNorNZaT64fkEAo4ZLdrs9FJ-Ao7dJwc2l0qMEp5bruIr2ArsvtzzHGJttBiIaPReRYvspIpmBgKxzozLY9tFAd6vmXcCxL0Xa2cugdJpSFOKcWW';
-
 export default class MyForm extends React.Component {
 
   constructor(props) {
