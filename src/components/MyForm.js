@@ -14,7 +14,7 @@ export default class MyForm extends React.Component {
     super(props)
     this.state = {
       value: '',
-      message: 'Nova mensagem important de teste',
+      message: 'Nova mensagem importante de teste',
       tags: '',
       auth: ''
     }
